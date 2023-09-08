@@ -1,3 +1,3 @@
-# PHP Book by Ei Maung
+# PHP
 
 ## Source Code
